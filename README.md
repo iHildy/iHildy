@@ -1,4 +1,5 @@
-![](https://github-readme-stats.vercel.app/api?username=ven&show_icons=true&count_private=true)
+![iHildy's github stats](https://github-readme-stats.vercel.app/api?username=iHildy&show_icons=true&theme=vue-dark)
+
 ### Hi there 👋
 
 <!--
