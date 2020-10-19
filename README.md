@@ -10,10 +10,7 @@ CSS
 Bootstrap
 Tailwind
 Javascript
-React
-Electron
-Node
-Python
+Learning...
 
 #### Portfolio / Experience 👤
 View my past work on my site [hildy.dev](https://hildy.dev/). 
