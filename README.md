@@ -2,7 +2,7 @@
 
 ### Welcome to my Github profile! 🦖
 
-My name is Ian, I'm a Fullstack Web developer.
+My name is Ian, I'm a Frontend Web developer.
 
 #### My Stack 💻
 HTML, CSS, Bootstrap, Tailwind, Javascript, Learning...
