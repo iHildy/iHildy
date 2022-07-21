@@ -14,6 +14,6 @@ Esri ArcGIS Web Maps, Figma, Office 365 Certified, and more...
 View my past work on my site [hildy.dev](https://hildy.dev/). 
 
 ### Socials 🤙
-https://www.linkedin.com/in/ian-hildebrand/\
-https://twitter.com/ianhildy\
-Email: ian@jedi.net\
+https://www.linkedin.com/in/ian-hildebrand/ \
+https://twitter.com/ianhildy \
+Email: ian@jedi.net \
