@@ -16,4 +16,4 @@ View my past work on my site [hildy.dev](https://hildy.dev/).
 ### Socials 🤙
 https://www.linkedin.com/in/ian-hildebrand/ \
 https://twitter.com/ianhildy \
-Email: ian@jedi.net 
+Email: ian@hildy.io
