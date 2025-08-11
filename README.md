@@ -2,7 +2,7 @@
 
 ## Welcome to my Github profile! 🦖
 
-My name is Ian, I'm the Founder of a Consulting Company (Linear) and two other companies / a full-stack Developer / a UX Enthusiast / and I enjoy picking apart UIs
+My name is Ian. I enjoy picking apart UIs, making tools, and making people's lives easier.
 
 ### My website 👤
 View more updated info about me [hildy.io](https://hildy.io/). 
